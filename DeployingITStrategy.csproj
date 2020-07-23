@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Agile.png" />
+    <None Remove="Cloud.png" />
+    <None Remove="ITCapability.png" />
+    <None Remove="ITStrategy.jpg" />
+    <None Remove="TechnologyRoadmap.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Agile.png" />
+    <Resource Include="Cloud.png" />
+    <Resource Include="ITCapability.png" />
+    <Resource Include="ITStrategy.jpg" />
+    <Resource Include="TechnologyRoadmap.png" />
+  </ItemGroup>
+
+</Project>

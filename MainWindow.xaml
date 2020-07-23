@@ -1,0 +1,57 @@
+﻿<Window x:Class="DeployingITStrategy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DeployingITStrategy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="633" Width="978" MaxWidth="978" MaxHeight="633">
+    <Grid>
+        <TabControl>
+            <TabItem Header="IT Strategy">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="Strategy Framework">
+                            <Grid Background="#FFE5E5E5" MaxWidth="996" MaxHeight="561">
+                                <Image Margin="13,13,16,22" Stretch="Fill" Source="/ITStrategy.jpg"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="IT Capability">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="11,4,26,13" Stretch="Fill" Source="/ITCapability.png"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Deployment">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="Technology Roadmap">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="12,7,7,11" Stretch="Fill" Source="/TechnologyRoadmap.png"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Deployment">
+                            <Grid Background="#FFE5E5E5">
+                                <TabControl>
+                                    <TabItem Header="Overview">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="1,9,14,9" Stretch="Fill" Source="/Cloud.png"/>
+                                        </Grid>
+                                    </TabItem>
+                                    <TabItem Header="Agile">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="2,7,18,15" Stretch="Fill" Source="/Agile.png"/>
+                                        </Grid>
+                                    </TabItem>
+                                </TabControl>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
