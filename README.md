@@ -5,13 +5,13 @@ The project provides an introduction to IT strategies
 Confidential information is not displayed.
 
 ## IT Strategy Framework
-![image](IT Strategy framework.png)
+![image](ITStrategyframework.png)
 
 ## IT Capability
-![image](IT Capability.png)
+![image](ITCapability.png)
 
 ## Technology Roadmap
-![image](Technology Roadmap.png)
+![image](TechnologyRoadmap.png)
 
 ## Infrastructure and capabilities
 ![image](Overview.png)
