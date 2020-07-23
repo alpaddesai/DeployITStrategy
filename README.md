@@ -1,6 +1,8 @@
 # Deploying IT Strategy
 
-The project provides an introduction to IT strategies
+The project provides an introduction to IT strategies. The source for the images are provided. 
+
+For details: https://github.com/alpaddesai/DeployITStrategy/releases
 
 Confidential information is not displayed.
 
