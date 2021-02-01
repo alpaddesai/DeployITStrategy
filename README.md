@@ -24,3 +24,5 @@ Confidential information is not displayed.
 ## IT Project Management
 ![image](CAPMCertificate.jpg)
 
+Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
+
