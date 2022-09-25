@@ -24,5 +24,7 @@ Confidential information is not displayed.
 ## IT Project Management
 ![image](CAPMCertificate.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement
 
