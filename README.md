@@ -21,9 +21,6 @@ Confidential information is not displayed.
 ## Agile Methodology
 ![image](Agile.png)
 
-## IT Project Management
-![image](CAPMCertificate.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
