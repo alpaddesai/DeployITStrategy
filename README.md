@@ -25,4 +25,4 @@ Confidential information is not displayed.
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/ProgramManagement
+Additional reference : https://github.com/alpaddesai/SoftwareEngineering
