@@ -2,8 +2,6 @@
 
 The project provides an introduction to IT strategies. The images are not custom, the source for the images are provided. 
 
-For details: https://github.com/alpaddesai/DeployITStrategy/releases
-
 Confidential information is not displayed.
 
 ## IT Strategy Framework
