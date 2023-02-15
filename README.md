@@ -23,4 +23,4 @@ Confidential information is not displayed.
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/SoftwareEngineering
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
