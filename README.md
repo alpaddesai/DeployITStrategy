@@ -100,6 +100,39 @@ Confidential information is not displayed.
 ## Appendix
 ![image](AppendixPage27.png)
 
+## Cloud Computing
+![image](CloudComputingPage28.png)
+
+## Block Chain 
+![image](BlockChainPage29.png)
+
+## Block Chain
+![image](BlockChainPage30.png)
+
+## Fin Tech 
+![image](FinTechPage31.png)
+
+## Cyber Security
+![image](CyberSecurityPage32.png)
+
+## Virtual Reality
+![image](VirtualRealityPage33.png)
+
+## Fundamentals Digital Transformation
+![image](FundamentalsDigitalTransformationPage34.png)
+
+## Open Loop Payment
+![image](OpenLoopPaymentPage35.png)
+
+## Crypto Currency 
+![image](CryptoCurrencyPage36.png)
+
+## Digital Transformation
+![image](DigitalTransformationPage37.png)
+
+## Bibliography
+![image](BibliographyPage38.png)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
