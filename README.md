@@ -55,6 +55,51 @@ Confidential information is not displayed.
 ## UML Improved Algorithm
 ![image](Feature4UMLPage12.png)
 
+## UML Diagrams
+![image](Feature5Page13.png)
+
+## Design Modeling
+![image](DesignModelingPage14.png)
+
+## PMP Plan 
+![image](PMPlanPage15.png)
+
+## Project Scope Management 
+![image](ProjectScopeManagementPage16.png)
+
+## Project Stakeholder Mgmt 
+![image](ProjectStakeholderMgmtPage17.png)
+
+## Project Schedule Mgmt
+![image](ProjectScheduleMgmtPage18.png)
+
+## Project Risk Mgmt 
+![image](ProjectRiskMgmtPage19.png)
+
+## Project Resource Mgmt 
+![image](ProjectResourceMgmtPage20.png)
+
+## Monitoring Controlling Process Group 
+![image](MonitoringControllingProcessGroupPage21.png)
+
+## Project Quality Management 
+![image](ProjectQualityMgmtPage22.png)
+
+## Project Procurement Mgmt
+![image](ProjectProcurementMgmtPage23.png)
+
+## Project Cost Mgmt
+![image](ProjectCostManagementPlanPage24.png)
+
+## Project Communication Mgmt 
+![image](ProjectCommunicationsMgmtPlanPage25.png)
+
+## Project Communication Mgmt 
+![image](ProjectCommunicationsMgmtPlanPage26.png)
+
+## Appendix
+![image](AppendixPage27.png)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
