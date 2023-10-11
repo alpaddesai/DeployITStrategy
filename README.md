@@ -19,6 +19,42 @@ Confidential information is not displayed.
 ## Agile Methodology
 ![image](Agile.png)
 
+## Project IT
+![image](CoverPage.png)
+
+## Contents
+![image](Contents.png)
+
+## Contents II
+![image](ContentsII.png)
+
+## Contents III
+![image](ContentsIII.png)
+
+## Systems Design Analysis
+![image](SystemsDesignAnalysis.png)
+
+## Systems Design Analysis II
+![image](SystemsDesignAnalysisII.png)
+
+## Business Process Functional Modeling
+![image](BusinessProcessFunctionalModeling.png)
+
+## Activity Diagram
+![image](ActivityDiagram.png)
+
+## Testing Requirement
+![image](TestingRequirements.png)
+
+## UML_Modeling
+![image](UML_Modeling.png)
+
+## Improved Algorithm
+![image](ImprovedAlgorithm11.png)
+
+## UML Improved Algorithm
+![image](Feature4UMLPage12.png)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
