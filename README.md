@@ -137,4 +137,4 @@ Confidential information is not displayed.
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea , https://github.com/alpaddesai/PredictionModelWithBloombergIdea/blob/master/TestCaseMain.cpp, https://github.com/alpaddesai/InvestmentPortfolio, https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/JavaObjectOrientedProgramming, https://github.com/alpaddesai/ObjectOrientedDesignProgramming, https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp and https://github.com/alpaddesai/PortfolioReturnGUIIdea.
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/PredictionModelWithBloombergIdea/blob/master/TestCaseMain.cpp, https://github.com/alpaddesai/InvestmentPortfolio, https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/JavaObjectOrientedProgramming, https://github.com/alpaddesai/ObjectOrientedDesignProgramming, https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp and https://github.com/alpaddesai/PortfolioReturnGUIIdea.
